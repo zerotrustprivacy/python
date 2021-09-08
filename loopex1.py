@@ -1,3 +1,4 @@
+# This is a colors game
 import random
 colors=["white","orange","black","red","blue","yellow"]
 
